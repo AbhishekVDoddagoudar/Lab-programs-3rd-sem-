@@ -8,7 +8,7 @@ void push()
 	scanf("%d",&item);
 	if(top==MAX-1)
 	{
-		printf("Stack is full\n");
+		pintf("Stack is full\n");
 	}
 	else
 	{
